@@ -13,3 +13,8 @@ Steps:
 
 Use CloneZilla https://clonezilla.org/ to do a P2V.
 https://pve.proxmox.com/wiki/Migration_of_servers_to_Proxmox_VE#Physical_server_to_Proxmox_VE_.28KVM.29_using_Clonezilla_Live_CDs
+
+
+
+sudo docker-compose pull
+sudo docker-compose up -d
